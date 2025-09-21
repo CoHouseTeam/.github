@@ -1,6 +1,4 @@
-# 프로젝트 명
-CoHouse: 쉐어하우스 통합 관리 플랫폼
-
+# CoHouse: 쉐어하우스 통합 관리 플랫폼
 🔗 [**프로젝트 기획 및 상세 설계 문서 (Notion)**](https://onyx-cloak-677.notion.site/CoHouse-2428e1f790e98080ab7cdfe10843bb78?source=copy_link)
 
 ## 프로젝트 소개
