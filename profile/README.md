@@ -51,6 +51,10 @@ CoHouse는 공동생활의 비효율과 갈등을 해결하는 통합 관리 플
 
 ## 🏗️ 아키텍처
 ![git architecture image-001](https://github.com/user-attachments/assets/15b9506b-1dd7-4dcf-9873-3d1288546bba)
+
+## 📊 ERD
+![git architecture image-001](https://github.com/user-attachments/assets/adca13a8-3736-4d09-bbe5-825f2f35fc4e)
+
 - 회원 & 그룹 
   - 회원과 그룹을 조인 테이블로 연결하여 다대다 관계의 유연성을 확보했어요. 한 회원이 여러 그룹에 속하는 기능으로 쉽게 확장할 수 있습니다.
 
@@ -65,10 +69,7 @@ CoHouse는 공동생활의 비효율과 갈등을 해결하는 통합 관리 플
 
 - 알림
   - 알림 설정과 기기 정보를 분리해 개인별 맞춤 알림과 멀티 디바이스 지원이 가능합니다.
-
-## 📊 ERD
-![git architecture image-001](https://github.com/user-attachments/assets/adca13a8-3736-4d09-bbe5-825f2f35fc4e)
-
+  
 ## ✨ 주요 기능
 - 할일 분담
   - 가사 항목을 랜덤으로 배정하고, 캘린더에서 할일 현황을 한눈에 확인할 수 있습니다. 미이행 시 자동으로 알림을 보내 책임감을 높입니다.
